@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "E:\\Hat Slime Saga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DamageSource.cs",
+              "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\DamageSource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DamageSource.cs",
+              "ToolTip": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\DamageSource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\DamageSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:02:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\Sword.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sword.cs",
+              "ToolTip": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\Sword.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Sword.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:01:14.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Flash.cs",
+              "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Misc\\Flash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Flash.cs",
+              "ToolTip": "E:\\Hat Slime Saga\\Assets\\Scripts\\Misc\\Flash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\Flash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:55:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EnemyPathfinding.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
@@ -38,12 +87,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:29:51.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T08:29:51.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -51,12 +99,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:26:48.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T08:26:48.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Knockback.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Misc\\Knockback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
@@ -64,21 +111,19 @@
               "RelativeToolTip": "Assets\\Scripts\\Misc\\Knockback.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:19:04.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T08:19:04.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "ToolTip": "E:\\Hat Slime Saga\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:14:37.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T08:14:37.757Z"
             }
           ]
         }
