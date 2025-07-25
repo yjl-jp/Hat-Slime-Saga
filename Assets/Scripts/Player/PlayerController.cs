@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public bool FacingLeft { get { return facingLeft; } set { facingLeft = value; } }
+    public bool FacingLeft { get { return facingLeft; } }
     public static PlayerController Instance;
 
     [SerializeField] private float moveSpeed = 1f;
@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator myAnimator;
     private SpriteRenderer mySpriteRender;
+    private float startingMoveSpeed;
 
     private bool facingLeft = false;
     private bool isDashing = false;
@@ -32,6 +33,8 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         playerControls.Combat.Dash.performed += _ => Dash();
+
+        startingMoveSpeed = moveSpeed;
     }
 
     private void OnEnable()
@@ -71,12 +74,12 @@ public class PlayerController : MonoBehaviour
         if (mousePos.x < playerScreenPoint.x)
         {
             mySpriteRender.flipX = true;
-            FacingLeft = true;
+            facingLeft = true;
         }
         else
         {
             mySpriteRender.flipX = false;
-            FacingLeft = false;
+            facingLeft = false;
         }
     }
 
@@ -96,7 +99,7 @@ public class PlayerController : MonoBehaviour
         float dashTime = .2f;
         float dashCD = .25f;
         yield return new WaitForSeconds(dashTime);
-        moveSpeed /= dashSpeed;
+        moveSpeed = startingMoveSpeed;
         myTrailRenderer.emitting = false;
         yield return new WaitForSeconds(dashCD);
         isDashing = false;
