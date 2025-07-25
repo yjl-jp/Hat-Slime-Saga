@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\Hat Slime Saga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|E:\\Hat Slime Saga\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\player\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|e:\\hat slime saga\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D231816-79BB-010B-4BE6-E13369787C07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SelfDestroy.cs",
+              "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\SelfDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SelfDestroy.cs",
+              "ToolTip": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\SelfDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SelfDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:25:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DamageSource.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DamageSource.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sword.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\Sword.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sword.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Flash.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Misc\\Flash.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Flash.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EnemyPathfinding.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Knockback.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Misc\\Knockback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "E:\\Hat Slime Saga\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
