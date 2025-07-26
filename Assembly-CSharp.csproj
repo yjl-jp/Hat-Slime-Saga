@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Player\SelfDestroy.cs" />
     <Compile Include="Assets\Scripts\Player\Sword.cs" />
+    <Compile Include="Assets\Scripts\Misc\Parallax.cs" />
     <Compile Include="Assets\Scripts\Misc\Flash.cs" />
     <Compile Include="Assets\Scripts\Player\DamageSource.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
