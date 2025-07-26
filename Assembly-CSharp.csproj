@@ -67,12 +67,14 @@
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Player\SelfDestroy.cs" />
     <Compile Include="Assets\Scripts\Scene Management\AreaExit.cs" />
+    <Compile Include="Assets\Scripts\Scene Management\SceneManagement.cs" />
     <Compile Include="Assets\Scripts\Player\Sword.cs" />
     <Compile Include="Assets\Scripts\Misc\Parallax.cs" />
     <Compile Include="Assets\Scripts\Scene Management\Singleton.cs" />
     <Compile Include="Assets\Scripts\Misc\Flash.cs" />
     <Compile Include="Assets\Scripts\Player\DamageSource.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Scene Management\AreaEntrance.cs" />
     <Compile Include="Assets\Scripts\Misc\Knockback.cs" />
     <Compile Include="Assets\Scripts\Misc\Destructible.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
